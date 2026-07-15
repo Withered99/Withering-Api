@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "net.withered.withering.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ItemRendererMixin",
+		"ModelLoaderMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
