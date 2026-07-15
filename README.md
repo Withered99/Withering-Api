@@ -1,4 +1,4 @@
-# Withering Api
+# Withering Lib
 
 Made for most of my mods and will add to it as i need it.
 
