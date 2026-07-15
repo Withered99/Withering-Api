@@ -1,0 +1,8 @@
+# Withering Api
+
+Made for most of my mods and will add to it as i need it.
+
+Currently includes:
+- Split Model Items
+
+See more info on the [wiki](https://github.com/Withered99/Withering-Api/wiki)
