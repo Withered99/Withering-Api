@@ -7,7 +7,7 @@ import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class WitheringApi implements ModInitializer {
+public class WitheringLib implements ModInitializer {
 	public static final String MOD_ID = "withering";
 
 	// This logger is used to write text to the console and the log file.

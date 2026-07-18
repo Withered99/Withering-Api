@@ -2,19 +2,19 @@
 	"schemaVersion": 1,
 	"id": "withering",
 	"version": "${version}",
-	"name": "Withering api",
+	"name": "Withering Lib",
 	"description": "A Library with some stuff",
 	"authors": [
 		"Withered_"
 	],
 	"contact": {
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/withering/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.withered.withering.WitheringApi"
+          "net.withered.withering.WitheringLib"
 		]
 	},
 	"mixins": [
